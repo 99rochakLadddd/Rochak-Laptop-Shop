@@ -1,0 +1,5 @@
+ASUS ZENBOOK 14, Asus, $1480.0, 1848, i7 8th Gen, NVIDIA GeForce MX450
+ASUS PREDATOR TRITON, Acer, $1899.0, 1000, Intel Core i7, NVIDIA GeForce RTX 2080
+APPLE MACBOOKPRO, Apple, $1399.0, 2000, Apple M1 chip, Intel Iris Plus/AMD Radeon Pro
+ASUS ROG ZEPHYRUS, Asus, $3000.0, 1050, i7 11th Gen, NVIDIA GeForce RTX 3080
+LENOVO THINKPAD X1, Lenovo, $1250.0, 1050, Intel Core i7, Intel UHD Graphics
